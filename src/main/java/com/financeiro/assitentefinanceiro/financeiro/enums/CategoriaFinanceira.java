@@ -1,0 +1,31 @@
+package com.financeiro.assitentefinanceiro.financeiro.enums;
+
+public enum CategoriaFinanceira {
+    SALARIO,
+    VENDAS,
+    INVESTIMENTOS_RENDIMENTOS,
+    EMPRESTIMOS_RECEBIDOS,
+    OUTRAS_RECEITAS,
+
+    ALIMENTACAO,
+    TRANSPORTE,
+    MORADIA,
+    SAUDE,
+    EDUCACAO,
+    LAZER,
+    UTILIDADES,
+    COMPRAS,
+    SERVICOS,
+    INVESTIMENTOS_APLICADOS,
+    EMPRESTIMOS_PAGOS,
+    OUTRAS_DESPESAS,
+
+    TRANSFERENCIA_ENTRE_CONTAS,
+
+    POUPANCA,
+    CDB,
+    FUNDOS,
+    ACOES,
+    CRIPTOMOEDAS;
+
+}
